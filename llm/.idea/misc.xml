@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="/opt/homebrew/bin/black" />
+    <option name="sdkUUID" value="1208e15e-5d27-4b1f-8c41-fd2c7cbea2a5" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="llm_env" project-jdk-type="Python SDK" />
+</project>
